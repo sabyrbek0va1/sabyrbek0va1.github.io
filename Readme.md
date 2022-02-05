@@ -1,1 +1,3 @@
-# This is my portfolio
+# Deployed link
+
+https://sabyrbek0va1.github.io/
